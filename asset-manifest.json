@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ImAnimesh/static/css/main.b555e321.css",
+    "main.js": "/ImAnimesh/static/js/main.430bcc3a.js",
+    "index.html": "/ImAnimesh/index.html",
+    "main.b555e321.css.map": "/ImAnimesh/static/css/main.b555e321.css.map",
+    "main.430bcc3a.js.map": "/ImAnimesh/static/js/main.430bcc3a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b555e321.css",
+    "static/js/main.430bcc3a.js"
+  ]
+}
